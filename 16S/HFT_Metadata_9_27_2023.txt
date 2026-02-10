@@ -1,0 +1,246 @@
+sample-id	sample_type	meat_type	Meat_type	specific_sample_type	treatment	trt	trt2	pool_timepoint	Timepoint	participant_id	weeks_in_pool	arm	blinded_treatment	treatment_order	Pre_Collapse	trt_id_washout	Washout.Arm	timepoint	Combined_order	Combined_order_ext	End_washout	End_trial	End_trial_combined	unique_group	raw_paired_reads	ASV_hits	Trial	Habitating	Co-Habitating
+HFT-F-102A_S7	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	102	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	105174	39360			
+HFT-F-103A_S13	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	103	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	84580	28373		Shared	Shared_2
+HFT-F-104A_S22	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	104	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	93712	33157			
+HFT-F-105A_S29	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	105	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	222856	79479		Shared	Shared_2
+HFT-F-108A_S44	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	108	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	86816	32074		Control	
+HFT-F-117A_S80	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	117	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	79696	23930		Shared	Shared_1
+HFT-F-124A_S114	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	124	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	293618	111611			
+HFT-F-126A_S121	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	126	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	91592	33492			
+HFT-F-135A_S160	Fecal	NA	NA Fecal	Fecal	NA	RWA		A	A	135	2	1	A	AB	AB_A	RWA		Start	Start_RWA	Start RWA Fecal	Group1_A			Group1_A	88208	31902			
+HFT-F-102B_S8	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	102	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	96318	35071	Group 1		
+HFT-F-103B_S14	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	103	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	83722	29180	Group 1	Shared	Shared_2
+HFT-F-104B_S23	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	104	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	110544	36600	Group 1		
+HFT-F-105B_S30	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	105	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	100430	17585	Group 1	Shared	Shared_2
+HFT-F-108B_S45	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	108	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	76498	27922	Group 1	Control	
+HFT-F-117B_S81	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	117	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	65010	21300	Group 1	Shared	Shared_1
+HFT-F-124B_S115	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	124	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	89138	33703	Group 1		
+HFT-F-126B_S122	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	126	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	86984	31400	Group 1		
+HFT-F-135B_S161	Fecal	NA	NA Fecal	Fecal	NA	RWA		B	B	135	2	1	A	AB	AB_B	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group1_B	108970	40015	Group 1		
+HFT-F-102C_S9	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	102	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	103126	37613	Group 1		
+HFT-F-103C_S15	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	103	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	74050	24648	Group 1	Shared	Shared_2
+HFT-F-104C_S24	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	104	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	92488	32682	Group 1		
+HFT-F-105C_S31	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	105	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	117696	40703	Group 1	Shared	Shared_2
+HFT-F-108C_S46	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	108	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	70790	26385	Group 1	Control	
+HFT-F-117C_S82	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	117	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	299810	100805	Group 1	Shared	Shared_1
+HFT-F-122C_S102	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	122	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	134676	38993	Group 1		
+HFT-F-124C_S116	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	124	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	87968	34126	Group 1		
+HFT-F-126C_S123	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	126	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	87690	32175	Group 1		
+HFT-F-135C_S162	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	C	C	135	2	1	A	AB	AB_C	RWA	RWA Start Washout 1	End	End_RWA	End RWA Fecal		Group1_A	Blinded_A	Group1_C	47552	16900	Group 1		
+HFT-F-102D_S10	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	102	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	88880	31572			
+HFT-F-103D_S16	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	103	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	77724	27428		Shared	Shared_2
+HFT-F-104D_S25	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	104	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	129618	44093			
+HFT-F-105D_S32	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	105	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	75376	27205		Shared	Shared_2
+HFT-F-108D_S47	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	108	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	156292	59161		Control	
+HFT-F-122D_S103	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	122	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	170704	64468			
+HFT-F-124D_S117	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	124	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	70600	26304			
+HFT-F-126D_S124	Fecal	NA	NA Fecal	Fecal	NA	No Claim	raised	D	D	126	2	3	D	AB	AB_D	RWA	RWA End Washout 1	Start	Start_No_Claim	Start No Claim Fecal	Group1_D			Group1_D	73574	26575			
+HFT-F-102E_S11	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	102	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	84840	29197	Group 2		
+HFT-F-103E_S17	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	103	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	74694	25077	Group 2	Shared	Shared_2
+HFT-F-104E_S26	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	104	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	90994	27821	Group 2		
+HFT-F-105E_S33	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	105	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	87700	32533	Group 2	Shared	Shared_2
+HFT-F-108E_S48	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	108	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	93156	27152	Group 2	Control	
+HFT-F-122E_S104	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	122	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	146140	54729	Group 2		
+HFT-F-124E_S118	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	124	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	82374	30905	Group 2		
+HFT-F-126E_S125	Fecal	NA	NA Fecal	Fecal	NA	No Claim		E	E	126	2	2	B	AB	AB_E	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group1_E	72902	23144	Group 2		
+HFT-F-102F-1-repeatID_S12	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	102	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	95978	35257	Group 2		
+HFT-F-102F-2-repeatID_S163	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	102	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	108416	40582	Group 2		
+HFT-F-103F_S18	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	103	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	105136	38176	Group 2	Shared	Shared_2
+HFT-F-104F_S27	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	104	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	236884	65390	Group 2		
+HFT-F-105F_S35	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	105	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	164296	56252	Group 2	Shared	Shared_2
+HFT-F-108-F_S49	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	108	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	115142	44327	Group 2	Control	
+HFT-F-122F_S105	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	122	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	135244	50672	Group 2		
+HFT-F-124F_S119	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	124	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	80858	30672	Group 2		
+HFT-F-126F_S126	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	F	F	126	2	2	B	AB	AB_F	No Claim	No Claim Start Washout 2	End	End_No_Claim	End No Claim Fecal		Group1_B	Blinded_B	Group1_F	88044	31321	Group 2		
+HFT-F-102G_S164	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	102	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	91220	29853			
+HFT-F-103G_S21	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	103	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	75722	24945		Shared	Shared_2
+HFT-F-104G_S28	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	104	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	254938	88045			
+HFT-F-105G_S36	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	105	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	694940	253880		Shared	Shared_2
+HFT-F-108G_S50	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	108	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	96336	34584		Control	
+HFT-F-122G_S106	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	122	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	120792	40893			
+HFT-F-124G_S120	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	124	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	82176	30456			
+HFT-F-126G_S127	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	G	G	126	2	2	B	AB	AB_G	No Claim	No Claim End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group1_G			Group1_G	87402	30989			
+HFT-F-101A_S3	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	101	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	105864	39762			
+HFT-F-106A_S37	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	106	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	89982	33980			
+HFT-F-110A_S51	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	110	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	106224	37951			
+HFT-F-111A_S58	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	111	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	104990	37663			
+HFT-F-113A_S65	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	113	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	107312	39485		Control	
+HFT-F-114A_S69	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	114	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	73890	19631			
+HFT-F-115A_S76	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	115	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	19218	3579		Control	
+HFT-F-118A_S83	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	118	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	98972	33645		Shared	Shared_1
+HFT-F-120A_S86	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	120	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	379922	151505			
+HFT-F-121A_S93	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	121	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	338024	123890			
+HFT-F-123A_S107	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	123	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	268694	95507			
+HFT-F-128A_S128	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	128	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	90998	30514			
+HFT-F-129A_S135	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	129	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	98368	38561			
+HFT-F-130A_S142	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	130	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	103450	39092		Control	
+HFT-F-132A_S149	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	132	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	96406	31971			
+HFT-F-133A_S165	Fecal	NA	NA Fecal	Fecal	NA	No Claim		A	A	133	2	1	B	BA	BA_A	No Claim		Start	Start_No_Claim	Start No Claim Fecal	Group2_A			Group2_A	60904	23963			
+HFT-F-101B_S4	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	101	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	95904	35271	Group 2		
+HFT-F-106B_S38	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	106	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	149894	56328	Group 2		
+HFT-F-110B_S52	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	110	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	516818	191708	Group 2		
+HFT-F-111B_S59	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	111	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	86260	31376	Group 2		
+HFT-F-113B_S66	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	113	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	106184	40226	Group 2	Control	
+HFT-F-114B_S70	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	114	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	96584	35825	Group 2		
+HFT-F-115B_S77	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	115	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	76838	29046	Group 2	Control	
+HFT-F-118B_S84	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	118	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	56366	4737	Group 2	Shared	Shared_1
+HFT-F-120B_S87	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	120	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	282580	110186	Group 2		
+HFT-F-121B_S94	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	121	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	261766	97492	Group 2		
+HFT-F-123B_S108	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	123	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	83524	31274	Group 2		
+HFT-F-128B_S129	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	128	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	68026	19160	Group 2		
+HFT-F-129B_S136	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	129	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	83762	32045	Group 2		
+HFT-F-130B_S143	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	130	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	98884	36178	Group 2	Control	
+HFT-F-132B_S150	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	132	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	121302	44473	Group 2		
+HFT-F-133B_S166	Fecal	NA	NA Fecal	Fecal	NA	No Claim		B	B	133	2	1	B	BA	BA_B	No Claim		Midpoint	Midpoint_No_Claim	Midpoint No Claim Fecal				Group2_B	70204	26152	Group 2		
+HFT-F-101C_S5	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	101	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	74988	20811	Group 2		
+HFT-F-106C_S39	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	106	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	202446	73250	Group 2		
+HFT-F-110C_S53	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	110	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	106052	40885	Group 2		
+HFT-F-111C_S60	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	111	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	79268	24944	Group 2		
+HFT-F-113C_S67	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	113	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	67494	22448	Group 2	Control	
+HFT-F-114C_S71	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	114	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	91288	34765	Group 2		
+HFT-F-115C_S78	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	115	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	13400	2163	Group 2	Control	
+HFT-F-118C_S85	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	118	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	88410	30045	Group 2	Shared	Shared_1
+HFT-F-120C_S88	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	120	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	180118	66517	Group 2		
+HFT-F-121C_S95	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	121	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	323202	123417	Group 2		
+HFT-F-123C_S109	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	123	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	234444	88944	Group 2		
+HFT-F-128C_S130	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	128	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	78314	22557	Group 2		
+HFT-F-129C_S137	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	129	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	66340	21714	Group 2		
+HFT-F-130C_S144	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	130	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	93270	35961	Group 2	Control	
+HFT-F-132C_S151	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	132	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	77016	26782	Group 2		
+HFT-F-133C_S167	Fecal	NA	NA Fecal	Fecal	NA	No Claim	conv	C	C	133	2	1	B	BA	BA_C	No Claim	No Claim Start Washout 1	End	End_No_Claim	End No Claim Fecal		Group2_B	Blinded_B	Group2_C	86940	33895	Group 2		
+HFT-F-101D_S6	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	101	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	102140	39593			
+HFT-F-106D_S40	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	106	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	330654	114377			
+HFT-F-110D_S54	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	110	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	170042	61138			
+HFT-F-111D_S61	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	111	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	103242	32972			
+HFT-113D_S68	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	113	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	103658	39964		Control	
+HFT-F-114D_S72	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	114	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	4450	631			
+HFT-F-115D_S79	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	115	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	100112	38542		Control	
+HFT-F-120D_S89	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	120	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	244536	95762			
+HFT-F-121D_S96	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	121	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	279722	102970			
+HFT-F-123D_S110	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	123	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	82538	31104			
+HFT-F-128D_S131	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	128	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	89832	28000			
+HFT-F-129D_S138	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	129	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	70318	26837			
+HFT-F-130D_S145	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	130	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	87494	31268		Control	
+HFT-F-132D_S152	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	132	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	86948	31474			
+HFT-F-133D_S156	Fecal	NA	NA Fecal	Fecal	NA	RWA	conv	D	D	133	2	3	D	BA	BA_D	No Claim	No Claim End Washout 1	Start	Start_RWA	Start RWA Fecal	Group2_D			Group2_D	90862	32212			
+HFT-F-106E_S41	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	106	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	107562	40680	Group 1		
+HFT-F-110E_S55	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	110	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	107316	38374	Group 1		
+HFT-F-111E_S62	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	111	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	83868	29807	Group 1		
+HFT-F-114E_S73	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	114	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	98010	36627	Group 1		
+HFT-F-120E_S90	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	120	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	337242	128945	Group 1		
+HFT-F-121E_S97	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	121	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	354270	127277	Group 1		
+HFT-F-128E_S132	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	128	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	96100	31522	Group 1		
+HFT-F-129E_S139	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	129	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	91456	33688	Group 1		
+HFT-F-130E_S146	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	130	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	132224	49479	Group 1	Control	
+HFT-F-132E_S153	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	132	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	99914	37277	Group 1		
+HFT-F-133E_S157	Fecal	NA	NA Fecal	Fecal	NA	RWA		E	E	133	2	2	A	BA	BA_E	RWA		Midpoint	Midpoint_RWA	Midpoint RWA Fecal				Group2_E	83436	31560	Group 1		
+HFT-F-106F_S42	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	106	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	98870	37742	Group 1		
+HFT-F-110F_S56	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	110	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	107590	36872	Group 1		
+HFT-F-111F_S63	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	111	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	79072	29256	Group 1		
+HFT-F-114F_S74	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	114	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	84100	31855	Group 1		
+HFT-F-120F_S91	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	120	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	271708	92442	Group 1		
+HFT-F-121F_S98	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	121	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	415866	156652	Group 1		
+HFT-F-123F_S112	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	123	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	377030	142749	Group 1		
+HFT-F-128F_S133	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	128	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	81938	28084	Group 1		
+HFT-F-129F_S140	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	129	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	94238	35971	Group 1		
+HFT-F-130F_S147	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	130	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	99098	35817	Group 1	Control	
+HFT-F-132F_S154	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	132	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	99608	36472	Group 1		
+HFT-F-133F_S158	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	F	F	133	2	2	A	BA	BA_F	RWA	RWA Start Washout 2	End	End_RWA	End RWA Fecal		Group2_A	Blinded_A	Group2_F	86970	31640	Group 1		
+HFT-F-106G_S43	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	106	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	115140	42831			
+HFT-F-110G_S57	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	110	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	81344	27546			
+HFT-F-111G_S64	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	111	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	86424	32949			
+HFT-F-114G_S75	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	114	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	95270	33896			
+HFT-F-120G_S92	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	120	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	329880	122115			
+HFT-F-121G_S99	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	121	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	455864	139937			
+HFT-F-123G_S113	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	123	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	259060	96226			
+HFT-F-128G_S134	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	128	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	94468	32913			
+HFT-F-129G_S141	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	129	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	107326	41000			
+HFT-F-130G_S148	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	130	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	92270	34660		Control	
+HFT-F-132G_S155	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	132	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	97314	35517			
+HFT-F-133G_S159	Fecal	NA	NA Fecal	Fecal	NA	RWA	raised	G	G	133	2	2	A	BA	BA_G	RWA	RWA End Washout 2	Final_Washout	Final_Washout	Final_Washout	Group2_G			Group2_G	101242	37294			
+HFT-F-EB1_S20	Extraction Blank	NA	Blank Extraction Blank Fecal	Extraction Blank Fecal	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					4	2	Blank		
+HFT-F-EB3_S168	Extraction Blank	NA	Blank Extraction Blank Fecal	Extraction Blank Fecal	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					4	2	Blank		
+EBRM1_S1	Extraction Blank	NA	Blank Extraction Blank Meat	Extraction Blank Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					414	111	Blank		
+EBRM2_S2	Extraction Blank	NA	Blank Extraction Blank Meat	Extraction Blank Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					1098	370	Blank		
+EBR1_S84	Extraction Blank	NA	Blank Extraction Blank Rinsate	Extraction Blank Rinsate	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					2458	910	Blank		
+EBR2_S85	Extraction Blank	NA	Blank Extraction Blank Rinsate	Extraction Blank Rinsate	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					248	82	Blank		
+CG1_S6	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		1	1	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					300034	142090	Meat		
+RG1_S8	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		1	1	NA	2	1	NA	NA				RWA	RWA	RWA Beef					245948	89306	Meat		
+CG2_S10	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		2	2	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					261944	119197	Meat		
+RG2_S12	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		2	2	NA	2	1	NA	NA				RWA	RWA	RWA Beef					175996	61786	Meat		
+CG3_S14	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		3	3	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					250566	117835	Meat		
+RG3_S16	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		3	3	NA	2	1	NA	NA				RWA	RWA	RWA Beef					261356	110830	Meat		
+CG4_S18	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		4	4	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					264978	113168	Meat		
+RG4_S20	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		4	4	NA	2	1	NA	NA				RWA	RWA	RWA Beef					296848	140584	Meat		
+CG5_S22	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		5	5	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					159952	55383	Meat		
+RG5_S24	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		5	5	NA	2	1	NA	NA				RWA	RWA	RWA Beef					1195974	521835	Meat		
+CG6_S26	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		6	6	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					280662	124463	Meat		
+RG6_S28	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		6	6	NA	2	1	NA	NA				RWA	RWA	RWA Beef					277600	98047	Meat		
+CG7_S32	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		7	7	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					212030	94400	Meat		
+RG7_S34	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		7	7	NA	2	1	NA	NA				RWA	RWA	RWA Beef					317656	145742	Meat		
+CG8_S36	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		8	8	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					298248	138717	Meat		
+RG8_S38	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		8	8	NA	2	1	NA	NA				RWA	RWA	RWA Beef					230916	100917	Meat		
+CG9_S40	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		9	9	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					571690	259255	Meat		
+RG9_S42	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		9	9	NA	2	2	NA	NA				RWA	RWA	RWA Beef					335074	147682	Meat		
+CG10_S44	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		10	10	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					207342	91554	Meat		
+RG10_S46	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		10	10	NA	2	2	NA	NA				RWA	RWA	RWA Beef					302976	136094	Meat		
+CG11_S48	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		11	11	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					327980	144960	Meat		
+RG11_S50	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		11	11	NA	2	2	NA	NA				RWA	RWA	RWA Beef					325304	127081	Meat		
+CG12_S53	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		12	12	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					254140	85386	Meat		
+RG12_S52	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		12	12	NA	2	2	NA	NA				RWA	RWA	RWA Beef					323918	105689	Meat		
+CG13_S58	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		13	13	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					332314	122651	Meat		
+CG14_S62	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		14	14	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					322158	125083	Meat		
+CG15_S66	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		15	15	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					230832	87306	Meat		
+RG15_S65	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		15	15	NA	2	2	NA	NA				RWA	RWA	RWA Beef					267742	113323	Meat		
+CG16_S70	Meat Rinsate	Ground Beef	No Claim Ground Beef	Ground Beef	No Claim	No Claim		16	16	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					258538	117622	Meat		
+RG16_S69	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		16	16	NA	2	2	NA	NA				RWA	RWA	RWA Beef					272318	117524	Meat		
+RG13_S57	Meat Rinsate	Ground Beef	RWA Ground Beef	Ground Beef	RWA	RWA		13	113	NA	2	2	NA	NA				RWA	RWA	RWA Beef					276688	95905	Meat		
+HFT-F-NTC1_S2	Negative Template Control	NA	Blank Negative Template Control Fecal	Negative Template Control Fecal	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					2	0	Blank		
+NTCM1_S3	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					190	36	Blank		
+NTCM2_S4	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					62	13	Blank		
+NTCM3_S30	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					136	33	Blank		
+NTCM4_S31	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					228	67	Blank		
+NTCM5_S54	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					104	36	Blank		
+NTCM6_S72	Negative Template Control	NA	Blank Negative Template Control Meat	Negative Template Control Meat	Blank	Blank		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					138	24	Blank		
+NTCR8_S83	Negative Template Control	NA	Blank Negative Template Control Rinsate	Negative Template Control Rinsate	Blank	RWA		Blank	Blank	NA	NA	NA	NA	NA				Blank	Blank	Blank					20	3	Blank		
+RB1_S73	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	1	NA	NA				Blank	Blank	Blank					134	32	Blank		
+RB2_S74	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	1	NA	NA				Blank	Blank	Blank					462	127	Blank		
+RB3_S75	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	1	NA	NA				Blank	Blank	Blank					374	129	Blank		
+RB4_S76	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	1	NA	NA				Blank	Blank	Blank					354	114	Blank		
+RB5_S77	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	2	NA	NA				Blank	Blank	Blank					260	91	Blank		
+RB6_S78	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	2	NA	NA				Blank	Blank	Blank					180	56	Blank		
+RB7_S79	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	2	NA	NA				Blank	Blank	Blank					1112	275	Blank		
+RB8_S80	Rinsate Blank	NA	Blank Rinsate Blank 	Rinsate Blank 	Blank	Blank		Blank	Blank	NA	4	2	NA	NA				Blank	Blank	Blank					1012	358	Blank		
+RP2_S81	Rinsate Pool	NA	RP Rinsate Pool	Rinsate Pool	RP	RP		2	2	NA	4	1	NA	NA				Blank	Blank	Blank					193402	75366	Meat		
+RP8_S82	Rinsate Pool	NA	RP Rinsate Pool	Rinsate Pool	RP	RP		8	8	NA	4	2	NA	NA				Blank	Blank	Blank					165806	53685	Meat		
+CS1_S5	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		1	1	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					261396	114649	Meat		
+RS1_S7	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		1	1	NA	2	1	NA	NA				RWA	RWA	RWA Beef					255866	104277	Meat		
+CS2_S9	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		2	2	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					155566	65992	Meat		
+RS2_S11	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		2	2	NA	2	1	NA	NA				RWA	RWA	RWA Beef					245750	101058	Meat		
+CS3_S13	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		3	3	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					240514	115400	Meat		
+RS3_S15	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		3	3	NA	2	1	NA	NA				RWA	RWA	RWA Beef					266808	118213	Meat		
+CS4_S17	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		4	4	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					214670	102102	Meat		
+RS4_S19	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		4	4	NA	2	1	NA	NA				RWA	RWA	RWA Beef					232734	94800	Meat		
+CS5_S21	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		5	5	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					295898	129008	Meat		
+RS5_S23	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		5	5	NA	2	1	NA	NA				RWA	RWA	RWA Beef					253116	102716	Meat		
+CS6_S25	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		6	6	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					245036	102714	Meat		
+RS6_S27	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		6	6	NA	2	1	NA	NA				RWA	RWA	RWA Beef					257094	103749	Meat		
+CS7_S29	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		7	7	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					272876	106108	Meat		
+RS7_S33	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		7	7	NA	2	1	NA	NA				RWA	RWA	RWA Beef					242108	104829	Meat		
+CS8_S35	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		8	8	NA	2	1	NA	NA				No_Claim	No_Claim	No Claim Beef					228430	85220	Meat		
+RS8_S37	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		8	8	NA	2	1	NA	NA				RWA	RWA	RWA Beef					258902	112511	Meat		
+CS9_S39	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		9	9	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					2	1	Meat		
+RS9_S41	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		9	9	NA	2	2	NA	NA				RWA	RWA	RWA Beef					292016	117761	Meat		
+CS10_S43	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		10	10	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					261086	104449	Meat		
+RS10_S45	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		10	10	NA	2	2	NA	NA				RWA	RWA	RWA Beef					273122	117957	Meat		
+CS11_S47	Meat Rinsate	Sirloin	No Claim Sirloin	Sirloin	No Claim	No Claim		11	11	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					308208	111133	Meat		
+RS11_S49	Meat Rinsate	Sirloin	RWA Sirloin	Sirloin	RWA	RWA		11	11	NA	2	2	NA	NA				RWA	RWA	RWA Beef					238794	91903	Meat		
+CT12_S51	Meat Rinsate	Sirloin	No Claim Tloin	Tloin	No Claim	No Claim		12	12	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					325948	106457	Meat		
+RT12_S55	Meat Rinsate	Sirloin	RWA Tloin	Tloin	RWA	RWA		12	12	NA	2	2	NA	NA				RWA	RWA	RWA Beef					231034	84889	Meat		
+CT13_S56	Meat Rinsate	Sirloin	No Claim Tloin	Tloin	No Claim	No Claim		13	13	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					263106	105419	Meat		
+RT13_S59	Meat Rinsate	Sirloin	RWA Tloin	Tloin	RWA	RWA		13	13	NA	2	2	NA	NA				RWA	RWA	RWA Beef					312596	103104	Meat		
+CT14_S60	Meat Rinsate	Sirloin	No Claim Tloin	Tloin	No Claim	No Claim		14	14	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					209404	85668	Meat		
+RT14_S63	Meat Rinsate	Sirloin	RWA Tloin	Tloin	RWA	RWA		14	14	NA	2	2	NA	NA				RWA	RWA	RWA Beef					346350	118735	Meat		
+CT15_S64	Meat Rinsate	Sirloin	No Claim Tloin	Tloin	No Claim	No Claim		15	15	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					241878	97448	Meat		
+CT16_S68	Meat Rinsate	Sirloin	No Claim Tloin	Tloin	No Claim	No Claim		16	16	NA	2	2	NA	NA				No_Claim	No_Claim	No Claim Beef					220532	70307	Meat		
+RT16_S71	Meat Rinsate	Sirloin	RWA Tloin	Tloin	RWA	RWA		16	16	NA	2	2	NA	NA				RWA	RWA	RWA Beef					305960	107910	Meat		
